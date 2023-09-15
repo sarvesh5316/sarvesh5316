@@ -1,6 +1,6 @@
 <img src="https://github.com/sarvesh5316/sarvesh5316/blob/main/gt_cover.png">
 <h1 align="center">Hi 👋, I'm Sarvesh Gond</h1>
-<h3 align="center">Front-End Developer, ML_Enthuasist, Good Learner</h3>
+<h3 align="center">Flutter Developer || MERN-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvesh5316&label=Profile%20views&color=0e75b6&style=flat" alt="sarvesh5316" /> </p>
 
@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/sarvesh5316" target="blank"><img src="https://img.shields.io/twitter/follow/sarvesh5316?logo=twitter&style=for-the-badge" alt="sarvesh5316" /></a> </p>
 
-- 🔭 I’m currently working on **Hotel Management System**
+- 🔭 I’m currently working on **Implementation of Smart Odometer Using Blockchain**
 
-- 🌱 I’m currently learning **Back-End Development**
+- 🌱 I’m currently working on **Flutter & MERN-Stack Development**
 
-- 👯 I’m looking to collaborate on **Mental Health Tracker**
+- 👯 I’m looking for Internship/ Job as **Flutter Developer & MERN-Stack Deeloper**
 
-- 💬 Ask me about **DSA, CP, Web Development**
+- 💬 Ask me about **DSA, CP,Flutter Development, MERN-Stack Development**
 
 - 📫 How to reach me **sskr5316@gmail.com**
 
